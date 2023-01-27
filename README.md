@@ -1,0 +1,6 @@
+
+
+Django
+Celery
+Rabbitmq
+csv
