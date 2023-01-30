@@ -17,7 +17,6 @@ A simple, reponsive  website. Built with:
 
 - Generates csv files according to user input filename and no of rows
 - Inserts status of Celery Task to Database
-- sends email when new user registers to the application
 
 
 ## How to run this project (Ubuntu 18.04)
