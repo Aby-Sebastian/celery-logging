@@ -28,7 +28,7 @@ A simple, reponsive  website. Built with:
 git clone https://github.com/Aby-Sebastian/celery-logging.git
 ```
 
-2.  **Make sure you are in *Shortly* folder**
+2.  **Make sure you are in *celery-logging* folder**
 
    1. Install all dependencies
 
