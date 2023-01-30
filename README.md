@@ -56,3 +56,17 @@ python manage.py runserver
 
 And you are good to go. 
 
+### Screenshots
+
+- **HOME**
+
+![Home](https://github.com/Aby-Sebastian/celery-logging/blob/main/screenshots/home.png)
+
+- **Success**
+
+![Success](https://github.com/Aby-Sebastian/celery-logging/blob/main/screenshots/success.png)
+
+- **Django Admin**
+
+![Django Admin](https://github.com/Aby-Sebastian/celery-logging/blob/main/screenshots/admin.png)
+
